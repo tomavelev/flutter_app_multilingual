@@ -1,16 +1,10 @@
 # flutter_app_multilingual
 
-Very Minimal Multi-Lingual Flutter App
+Very Minimal Multi-Lingual Flutter App that changes the labels to the appropiate language (Bulgarian, English, Spanish) according to the Web Browser / Device setting 
 
-## Getting Started
+A Release Build version of the App could be found here:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Web: 
+https://programtom.com/dev_examples/flutter_i18n
+Android: 
+https://programtom.com/dev_examples/flutter_i18n/app-release.apk
