@@ -1,0 +1,9 @@
+{
+   "@@last_modified": "2020-12-21T15:38:57.000049",
+   "hello_world": "Hola Mundo",
+   "@hello_world": {
+     "description": "",
+     "type": "text",
+     "placeholders": {}
+   },
+ }
